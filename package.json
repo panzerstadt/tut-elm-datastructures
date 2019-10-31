@@ -1,0 +1,10 @@
+{
+  "name": "tut-elm-datastructures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "elm reactor",
+    "build": "elm make --output src/Index.elm"
+  }
+}
